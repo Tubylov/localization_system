@@ -1,0 +1,15 @@
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.deps.json
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.runtimeconfig.json
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.dll
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.pdb
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfo.cs
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.dll
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/refint/ConsoleApp2.dll
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.pdb
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.genruntimeconfig.cache
+/Users/ignat/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net7.0/ref/ConsoleApp2.dll
